@@ -93,7 +93,7 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-*Add your screenshot here*
+![img alt](https://github.com/venkateshganganapalli/chocolate_factory/blob/ae30ae25ecb535dba54e3b7bf9ce6f8fcf5b501d/powerbi-demo-1.pbix)
 
 ---
 

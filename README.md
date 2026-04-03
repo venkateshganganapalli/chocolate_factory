@@ -93,7 +93,7 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-![demo](Screenshot 2026-04-03 102037.png)
+![demo](https://github.com/venkateshganganapalli/chocolate_factory/blob/2ea9c2da635d20fb8e1cd4953eeb587fcce27276/Screenshot%202026-04-03%20102037.png)
 
 ---
 

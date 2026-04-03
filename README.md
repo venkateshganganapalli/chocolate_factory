@@ -93,7 +93,7 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-![img alt](powerbi-demo-1.pbix)
+![demo](powerbi-demo-1.pbix)
 
 ---
 
